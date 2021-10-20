@@ -47,10 +47,14 @@ Before starting a tutorial a user will need familiarity with the following (we c
 ## Unit Catalog
 
 - 01 FOUNDATION: Full CRUD apps built with vanilla JS, vanilla CSS through a single, unstyled, responsive, html file
-  01-a local storage
-  01-b session storage
-  01-c storage to a file - json - google sheet
-
+  01-00 Setup 
+  01-01 Gather input and render list
+  01-02 Add data structure and delete functionality
+  01-03 Add edit functionality
+  01-04 Add strike through functionality.
+  01-05 Add persistence through session storage
+  01-06 Add persistence through local storage
+  
 - 02 QUERYING API's: Full CRUD apps built with vanilla JS.
 
   - fetch API
