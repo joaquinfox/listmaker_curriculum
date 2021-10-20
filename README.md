@@ -5,7 +5,9 @@ For example the first unit is strictly vanilla JS, which illustrates JS's native
 
 ## Styling
 I think manytutorials throw too much at you at once, and the idea here is to break things down to a granular level and really learn the individual pieces. Styling is an example. None of these tutorials will be styled except for basic positioning and responsivness. In other words styling, design, UX and accessability are de-emphasized, and addressed in a late module.
-
+```
+### Takeaway: Don't spend a lot of time styling these exercises.
+```
 ## Units
 Each unit is intended as a tutorial and includes
 - a motivation for the key concepts and methods introduced (what and why)
