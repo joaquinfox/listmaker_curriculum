@@ -4,6 +4,11 @@
 Build a bunch of JS apps to get good at JS and all things web (since JS is at the heart of all things web). The idea is that this progression starts with raw (vanilla) JS and adds layers of abstractions, frameworks and libraries. The idea is to learn in concrete terms how these different elements combine and how each element solves a problem you had in the step before.
 For example the first unit is strictly vanilla JS, which illustrates JS's native ability to build and manipulate DOM elements. But the app has no back end and no frameworks so data persistence and state management are challenges. Subsequent units introduce persisting data to files and data bases and API's as well as state management tools such as Redux and React hooks.
 
+## Core Concepts
+- Learning needs to be _incremental_. This progression seeks to introduce concepts and methods in such a way that they make sense at each stage in the development of our apps.
+- Coding is a muscle and needs to be _practiced_. Each unit is meant to be drilled as an exercise untill you are able to build similar functionality on your own. This doesn't mean you need to memorize lines of code, but remembering _patterns_ is important. In programming, just as in math, _doing comes before understanding_. This means that code that initially makes no sense will start to make sense after spending some time tapping your keyboard and trying to solve the same problem as the module does.
+- In these modules I try to _stay close to the native abilities of JavaScript_. The goal is not simply to build things but to build a deep mastery of JavaScript, and to do this, we explore the limits of what can be done with JS ( rewrite?)
+
 ## Styling
 I think manytutorials throw too much at you at once, and the idea here is to break things down to a granular level and really learn the individual pieces. Styling is an example. None of these tutorials will be styled except for basic positioning and responsivness. In other words styling, design, UX and accessability are de-emphasized, and addressed in a late module.
 

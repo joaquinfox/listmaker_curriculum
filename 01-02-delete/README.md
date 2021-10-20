@@ -1,2 +1,10 @@
-01 The Simplest list maker in the series.
-This is the first app in this series. Here we build a simple list making app wiht html, JavaScript and CSS. Data is persisted using local and session storage and state management is done in variables.
+# Unit: 01 FOUNDATION
+## Module: 02 EDIDelete
+### Overview: 
+In this module I add a data structure to hold our list, and introduce delete functionality
+
+### Learning Outcomes:
+- Data Structures and state management
+- Modularity vs. spaghetti code.
+- Variable Scope
+- Data Type pitfalls.
