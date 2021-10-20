@@ -1,2 +1,2 @@
-01 The Simplest list maker in the series.
-This is the first app in this series. Here we build a simple list making app wiht html, JavaScript and CSS. Data is persisted using local and session storage and state management is done in variables.
+01-00-setup
+Here we setup the basic html shell our apps will use and we lay out the minimal styling.
