@@ -46,7 +46,7 @@ Before starting a tutorial a user will need familiarity with the following (we c
 - each sequence is hosted
 
 ## Unit Catalog
-- 01 FOUNDATION: Full CRUD apps built with vanilla JS, vanilla CSS through a single, unstyled, responsive, html file
+### 01 FOUNDATION: Full CRUD apps built with vanilla JS, vanilla CSS through a single, unstyled, responsive, html file
 - 01-00 Setup 
 - 01-01 Gather input and render list
 - 01-02 Add data structure and delete functionality
