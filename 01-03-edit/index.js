@@ -63,6 +63,7 @@ const handleDelete = (id) => {
 };
 
 const handleEdit = (id) => {
+  inputEl.placeholder = "...update your list.";
   inputEl.focus();
 
   isEditing = true;
