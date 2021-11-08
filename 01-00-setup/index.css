@@ -8,6 +8,8 @@
 body {
     background-color: var(--bs-gray-200);
     text-align: center;
+    position: relative;
+    min-height: 100vh;
 }
 
 .navbar {
@@ -53,9 +55,9 @@ body {
 
 footer {
     background-color: var(--bs-dark);
-    position: fixed;
-    bottom: 0;
     width: 100vw;
     color: white;
     padding: 1rem;
+    position: absolute;
+    bottom: 0;
 }
