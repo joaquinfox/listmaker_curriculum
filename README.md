@@ -2,7 +2,7 @@
 
 ## General Idea
 
-Get *really*good at JavaScript by building a bunch of list maker type apps. This guided progression starts with raw (vanilla) JS and adds layers of abstractions, frameworks and libraries, over time. You learn how these different elements combine and how each of them solves a problem you had in the step before.
+This guided JavaScript progression starts with raw (vanilla) JS and adds layers of abstractions, frameworks and libraries, over time. You learn how these different elements combine and how each of them solves a problem you had in the step before.
 For example the first unit works entirely in vanilla JS, and explores JS's native ability to build and manipulate DOM elements. But because the app has no back end and uses no frameworks, data persistence and state management are challenges. Subsequent units introduce tools and methods to deal with these limitations, and give you a deep understanding of why a certain tool might be called for, and when.
 
 ## Core Concepts
