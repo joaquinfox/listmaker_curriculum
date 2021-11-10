@@ -19,7 +19,7 @@ Many tutorials throw too much at you at once, and the idea here is to break thin
 
 ## Before you begin
 
-To sum up: if you can easily build and host a simple static web site then you are good to go. If not, look below for resources that will build your foundational skills.
+If you can easily build and host a simple static web site then you are good to go. If not, here are some resources that will build the foundational skills we think you will need to benefit from this tutorial.
 
 - IDE (Integrated Developer Environment)
 
