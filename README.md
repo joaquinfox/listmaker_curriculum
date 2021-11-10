@@ -2,8 +2,8 @@
 
 ## General Idea
 
-Build a bunch of JS apps to get good at JS and all things web (since JS is at the heart of all things web). The idea is that this progression starts with raw (vanilla) JS and adds layers of abstractions, frameworks and libraries. The idea is to learn in concrete terms how these different elements combine and how each element solves a problem you had in the step before.
-For example the first unit is strictly vanilla JS, which illustrates JS's native ability to build and manipulate DOM elements. But the app has no back end and no frameworks so data persistence and state management are challenges. Subsequent units introduce persisting data to files and data bases and API's as well as state management tools such as Redux and React hooks.
+Get *really*good at JavaScript by building a bunch of list maker type apps. This guided progression starts with raw (vanilla) JS and adds layers of abstractions, frameworks and libraries, over time. You learn how these different elements combine and how each of them solves a problem you had in the step before.
+For example the first unit works entirely in vanilla JS, and explores JS's native ability to build and manipulate DOM elements. But because the app has no back end and uses no frameworks, data persistence and state management are challenges. Subsequent units introduce tools and methods to deal with these limitations, and give you a deep understanding of why a certain tool might be called for, and when.
 
 ## Core Concepts
 
