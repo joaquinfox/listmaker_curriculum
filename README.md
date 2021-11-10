@@ -29,7 +29,7 @@ If you can easily build and host a simple static web site then you are good to g
     - This tutorial can also be completed using [CodeSandbox](https://codesandbox.io/) or another virtual IDE.
 
 - HTML and CSS
-  - Both sources listed above are good, as well as [Free Code Camp]('https://www.freecodecamp.org/')and [The Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/Tutorials)
+  - Both sources listed above are good, as well as [Free Code Camp](https://www.freecodecamp.org/) and [The Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/Tutorials)
 
 ## Units
 
