@@ -24,7 +24,7 @@ If you can easily build and host a simple static web site then you are good to g
 - IDE (Integrated Developer Environment)
 
   - This is the environment **in** which you work, and the tools **with** which you work. Your IDE consists of several pieces, and you need to be aquainted with all of them. These pieces include your command line, text editor, and git-foo.
-    - [Learn Enough To Be Dangrous](https://www.learnenough.com/courses) have good introductions to the important elements of an IDE.
+    - [Learn Enough To Be Dangerous](https://www.learnenough.com/courses) have good introductions to the important elements of an IDE.
     - [Ryans's Tutorials](https://ryanstutorials.net/) has a great tutorial on Linux.
     - This tutorial can also be completed using [CodeSandbox](https://codesandbox.io/) or another virtual IDE.
 
